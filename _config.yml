@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-URL: https://Riade2022.github.io
+URL: https://riade2022.github.io
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /Echoes-of-Tragedy-The-Bengal-Famine-of-1770 
 # location of code, the full url to your github repository
-source-code: https://github.com/Riade2022/Echoes-of-Tragedy-The-Bengal-Famine-of-1770
+source-code: https://github.com/riade2022/Echoes-of-Tragedy-The-Bengal-Famine-of-1770
 
 ##########
 # SITE SETTINGS
