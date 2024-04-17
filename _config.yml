@@ -34,7 +34,7 @@ author: Ria De
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: /data/Echoes-of-Tragedy-The-Bengal-Famine-of-1770.csv
+metadata: Echoes-of-Tragedy-The-Bengal-Famine-of-1770
 
 ##########
 # Site/Organization Branding 
