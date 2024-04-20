@@ -8,7 +8,7 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-findingaid, Reference Link
+findingaid,Reference Link
 identifier,Source Identifier,,
 type,Type,
 format,Format,
