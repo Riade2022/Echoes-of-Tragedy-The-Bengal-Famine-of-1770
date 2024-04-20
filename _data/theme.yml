@@ -50,13 +50,13 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 ##########
 # TIMELINE PAGE
 #
-year-navigation: 1754 - 2020 #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: 1754; 1760; 1765; 1767; 1770; 1773; 1776; 1782; 1787; 1793; 1794; 1814; 1818; 1819; 1832; 1847; 1869; 1878; 1880; 1883; 1905; 2006; 2009; 2015; 2018; 2019; 2020 #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
 # DATA 
 #
-# add metadata fields for export in data downloads (tip: paste in first row of csv)
+# admetadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
 metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
 # generate a facets list for given fields, comma delimited
