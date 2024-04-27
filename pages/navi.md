@@ -3,6 +3,8 @@ title: How to Navigate
 layout: about
 permalink: /navi.html
 ---
+{% include feature/nav-menu.html sections="How to Navigate" %}
+
 ## How to Navigate
 
 Welcome to the website, "Echoes of Tragedy: The Bengal Famine of 1770". This site is designed to provide comprehensive information about the Bengal Famine of 1770, a tragic event in history that had profound impacts.
