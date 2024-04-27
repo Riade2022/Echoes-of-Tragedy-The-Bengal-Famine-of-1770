@@ -15,7 +15,10 @@ In the 18th century, the aristocracy of Bengal Nawabs and Zamindars were all gon
 
 Huge amounts of rice, and grains were transported by Reza from Dinajpur, Rungpur to Murshidabad, Dhaka. Raja Shitae Roy joined in this catastrophe and controlled every shipment of rice and grain from Rungpur to Patna. They failed to save Murshidabad and Patna because most of the grain was lotted to feed the British Garrison. So, it created the food crisis. In 1770, food grain was transported from Dinajpur, Murshidabad to Fort William, Calcutta. Then from Calcutta to St. George, Madras, then Madras to Fort Marlborough, Sumatra.
 
-The native superintendent of Bishenpore wrote, *“The fields of rice are become like fields of dried straw."*<br>
+The native superintendent of Bishenpore wrote, *“The fields of rice are become like fields of dried straw."*
+
+{% include feature/image.html objectid="bengal_famine060" width="75" caption="Company servant's letter to a friend" %}
+
 The General Evening Post blamed the famine on *“a most scandalous monopoly of Rice,” while an anonymous Company servant wrote to a friend in London, implicating their compatriots: Gentlemen in the Company’s service . . . were as early as possible in buying up all they could lay hold of. When the effects of the scarcity became more and more sensible, the natives complained . . . that the English had engrossed all the rice . . . but the interest of the Gentlemen concerned was too powerful on the [Calcutta Council] . . . so that the complaint was only laughed at and thrown out. Our gentlemen in many places purchased the rice at 120 and 140 seers for a rupee, which they afterward sold for fifteen Seers for a rupee, to the Black merchants, so that the persons principally concerned have made great fortunes by it; and one of our writers at the Durbar [nawab’s Court] who was interested therein, not esteemed to be worth 1000 rupees last year, had sent down it is said £60,000 to be remitted home this year.”*
 
 ## Affected Areas
