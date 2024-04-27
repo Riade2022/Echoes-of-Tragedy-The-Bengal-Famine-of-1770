@@ -2,6 +2,7 @@
 title: History of Famine
 layout: famine
 permalink: /history.html
+credits: true
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
