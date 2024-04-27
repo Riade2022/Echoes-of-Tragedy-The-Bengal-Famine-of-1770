@@ -12,16 +12,11 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Project
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+“Echoes of Tragedy: The Bengal Famine of 1770” is a digital exhibit that delves into one of the most catastrophic events in Indian history. This exhibit aims to provide a comprehensive understanding of the famine through a collection of photographs, paintings, lithographs, maps, graphic narratives, and scholarly articles, shedding light on the affected areas, the socio-economic conditions, and the aftermath of the famine. This digital platform provides an immersive experience, allowing visitors to navigate through various sections that feature interactive timelines, maps, and thematic galleries. Each segment is designed to provide a deeper understanding of the famine’s causes, the human cost, and how colonization impacted Indian history. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
