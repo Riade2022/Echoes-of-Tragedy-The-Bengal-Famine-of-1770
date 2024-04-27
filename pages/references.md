@@ -3,6 +3,10 @@ title: References
 layout: famine
 permalink: /references.html
 ---
+{% include feature/nav-menu.html sections="References" %}
+
+## References
+
 * [The annals of rural Bengal](https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t02z1d88v&seq=9) by W.W. Hunter
 * [Famine aspects of Bengal districts](https://babel.hathitrust.org/cgi/pt?id=uc1.$b238168&seq=6) by W.W. Hunter
 * [Famine in Bengal: A Comparison of the 1770 Famine in Bengal and the 1897 Famine in Chotanagpur](https://journals.sagepub.com/doi/10.1177/097194580701000206) by Vinita Damodaran
