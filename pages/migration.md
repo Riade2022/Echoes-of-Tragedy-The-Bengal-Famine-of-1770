@@ -2,7 +2,6 @@
 title: Migration
 layout: famine
 permalink: /migration.html
-credits: true
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
