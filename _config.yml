@@ -43,8 +43,7 @@ metadata: Echoes-of-Tragedy-The-Bengal-Famine-of-1770
 # organization-name: "Center for Textual Studies and Digital Humanities (CTSDH)"
 organization-link: https://www.luc.edu/ctsdh/
 organization-logo-banner: https://github.com/Riade2022/Echoes-of-Tragedy-The-Bengal-Famine-of-1770/blob/main/assets/img/CTSDH%20logo.png
-organization-logo-nav: https://github.com/Riade2022/Echoes-of-Tragedy-The-Bengal-Famine-of-1770/blob/main/assets/img/CTSDH%20logo.png
-
+organization-logo-nav: /assets/img/CTSDH logo.png
 ##########
 # ROBOTS EXCLUDE
 #
