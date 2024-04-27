@@ -6,7 +6,7 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="History of Famine;Digital Collections;Sources; and Ownership of Data" %}
+{% include feature/nav-menu.html sections="History of Famine;Digital Collections;Sources;Ownership of Data" %}
 
 ## History of Famine
 
