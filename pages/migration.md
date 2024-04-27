@@ -32,5 +32,8 @@ It appears from the account that the Supervisor of Purnia received from Parganah
 Detailed maps of Bengal, Bihar and Bangladesh, illustrating the districts ravaged by the famine, identified food crisis areas,  and patterns of people’s migration. Users can explore the extent of the devastation and understand the geographical spread of the crisis. 
 People moved from Western Bengal to  Eastern Bengal. Bihar lost a portion of its population by desertion as some people of western Bihar migrated to Benaras. Some of the people migrated to Nepal from Purnea because of the state was less confiscatory than the East India Company. In Birbhum, four years before the famine, it was recorded that there were 6,000 rural communities each with a village in the centre of its lands. In 1771, three years after the famine, only 4,000 of these communities survived.
 
+<iframe src="[https://public.tableau.com/views/public_exercise/Dashboard1?:showVizHome=no&:embed=true](https://public.tableau.com/app/profile/ria.de3373/viz/Migration_17141966903080/Sheet2)"
+ width="645" height="955"></iframe>
+
 {% include feature/tableau.html objectid="https://public.tableau.com/app/profile/ria.de3373/viz/Migration_17141966903080/Sheet2" width="75" alt="Frank B. Robinson at the Organ" caption="This guy is good!"%}
 
