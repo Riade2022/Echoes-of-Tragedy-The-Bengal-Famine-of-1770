@@ -7,7 +7,6 @@ permalink: /history.html
 
 {% include feature/nav-menu.html sections="History of Famine;Digital Collections;Sources;Ownership of Data" %}
 
-## History of Famine
 
 *Still fresh in memory's eye the scene I view,<br>
 The shrivelled limbs, sunk eyes, and lifeless hue ; Still hear the mother's shrieks and infant's<br>
@@ -21,6 +20,7 @@ Nor rolling years from memory's page efface.*<br>
 
 *John Shore, Memoir of the Life and Correspondence of John Lord Tcign- mouth, by his Son. Vol. i. pp. 25, 26. 8vo. London, 1843*
 
+## History of Famine
 
 Chiẏāttôrer mônnôntôr or The Great Bengal Famine of 1770 was a devastating event that struck Bengal and Bihar between 1769 and 1770, affecting approximately 30 million people. The bengali name “Chiẏāttôrer mônnôntôr” is derived from Bengali calender year 1176 and the Bengali word meaning famine. During this period, Bengal was under dual governance: the East India Company had been granted the diwani (the right to collect revenue) by the Mughal emperor in Delhi, but the control of civil administration, or nizamat, remained with the Mughal governor, the Nawab of Bengal Nazm ud Daula. 
 
