@@ -8,6 +8,9 @@ permalink: /migration.html
 
 ## Food Crisis
 
+W. W. Hunter who looked at the record of the famine nearly a century later, wrote, *“the peasants sold their cattle; they sold their implements of agriculture, they devoured their seed grain, they sold their sons and daughters, till at length no buyer of children could be found, they ate the leaves of trees and the grass of the field and in June 1770, the resident at the Darbar affirmed that the living were feeding on the dead."*
+
+<br>
 In 1769 Bengal faced a famine whose ravages two generations failed to repair. Lower Bengal has three harvests each year: scanty pulse crop in spring; rice crop in autumn; and December, the harvest of the year. In 1768, the scarcity of rainfall failed the next cycle of irrigation. Though there is a high price of food, the scarcity had not been so severe as materially to affect the Government rental. The land tax has been rigorously enforced. In September 1769, the rain prematurely ceased. 
 
 In the 18th century, the aristocracy of Bengal Nawabs and Zamindars were all gone. East India Company came into power. Dadni system was abolished affecting the artisans to limestone workers, blacksmiths, and boatmakers. Dadni businessman paid the artisans an advance to produce various kinds of products, selling the product was not the artisans’ concern. But the company only emphasized silk. Muhammad Reza Khan was Nawab dewan of Bengal during the famine of 1770. The local Nawabs and Zamindars could stop the famine because they had enough grains in their storage. Even they looted from the farmers. Reza often raided Rungpur grain market and took all the rice and grain forcefully to his storage. During this time of famine, Reza’s sepoys used to stop the grain merchants’s boats and forcefully bought the grain.
