@@ -19,7 +19,7 @@ credits: true
 
 Ria De is a Master’s student of Digital Humanities at the Center for Textual Studies and Digital Humanities, Loyola University Chicago. Formerly, she did her Master’s in English Literature at Banaras Hindu University, India. Her research interest lies in Digital Humanities, Manuscript Studies, and Human-Computer Interaction. She worked on the scholarly digital editions of Gerard Manley Hopkins's poetry and Emily Dickinson’s Textual Variants. She has a programming background in Java, HTML/CSS, and Web Content Management Systems. This website is her capstone project for the Digital Humanities Course.
 
-If you have any questions or feedback, please contact at riadernpur@gmail.com.
+If you have any questions or feedback, please contact at <riadernpur@gmail.com>
 
 ## The Metadata and Userbase
 
