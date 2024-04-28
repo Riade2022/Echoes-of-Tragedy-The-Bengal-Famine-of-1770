@@ -16,7 +16,7 @@ Huge amounts of rice, and grains were transported by Reza from Dinajpur, Rungpur
 
 The native superintendent of Bishenpore wrote, *“The fields of rice are become like fields of dried straw."*
 
-{% include feature/image.html objectid="bengal_famine060" width="75" caption="Company servant's letter to a friend" %}
+{% include feature/image.html objectid="bengal_famine060" width="50" caption="Company servant's letter to a friend" %}
 
 ## Affected Areas
 
@@ -25,12 +25,12 @@ The native superintendent of Bishenpore wrote, *“The fields of rice are become
 
 It appears from the account that the Supervisor of Purnia received from Parganahs, that nearly two lakhs of people perished in his district. The crops were damaged by flood because the river Koshi changed its course every year. Then sands were deposited in paddy fields. Bishnupur district in Bengal suffered the worst along with Purnia due to famine. Before the outbreak, there were 265 families in the 11 villages of the Maner Parganah in Rajashani district. Out of 265 families, only 127 families survived at the end of 1771. There was a reduction of 51 ½  % of the families. In the fifteen villages of the Arwal parganah, there were 291 families before the famine, but at the end of the year 1771 only 157 families survived. Thus there was a reduction of about 46 percent of the families in fifteen villages of the Arwal Parganah. Allumgunj, once a great rice market town, had so much declined that a great part of the town was full of jungles and literally a refuge.
 
-{% include feature/image.html objectid="bengal_famine001" width="75" caption="Bengal map,1760" %}
+{% include feature/image.html objectid="bengal_famine001" width="50" caption="Bengal map,1760" %}
 
 ## Migration
 
 Detailed maps of Bengal, Bihar and Bangladesh, illustrating the districts ravaged by the famine, identified food crisis areas,  and patterns of people’s migration. Users can explore the extent of the devastation and understand the geographical spread of the crisis. 
 People moved from Western Bengal to  Eastern Bengal. Bihar lost a portion of its population by desertion as some people of western Bihar migrated to Benaras. Some of the people migrated to Nepal from Purnea because of the state was less confiscatory than the East India Company. In Birbhum, four years before the famine, it was recorded that there were 6,000 rural communities each with a village in the centre of its lands. In 1771, three years after the famine, only 4,000 of these communities survived.
 
-{% include feature/image.html objectid="bengal_famine061" width="75" caption="Visualization of migration during 1770 famine" %}
+{% include feature/image.html objectid="bengal_famine061" width="50" caption="Visualization of migration during 1770 famine" %}
 
