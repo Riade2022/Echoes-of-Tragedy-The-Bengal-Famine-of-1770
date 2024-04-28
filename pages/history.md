@@ -29,4 +29,4 @@ The objects used in this collection were sourced from several websites and digit
 
 ## Ownership of Data
 
-I do not own any of the objects included in this collection. All objects are owned by their respective repository source. Objects used are allowed with educational use in mind.
+I do not own any of the objects included in this collection except the visualizations. All objects are owned by their respective repository source. Objects used are allowed with educational use in mind.
