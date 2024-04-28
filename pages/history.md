@@ -3,7 +3,7 @@ title: History of Famine
 layout: famine
 permalink: /history.html
 ---
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/bengal_famine053" %}
 
 {% include feature/nav-menu.html sections="History of Famine;Digital Collections;Sources;Ownership of Data" %}
 
