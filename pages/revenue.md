@@ -5,7 +5,7 @@ permalink: /revenue.html
 ---
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="Government Reaction;Revenue system in Bengal and Bihar;Net Revenue of Birbhum District" %}
+{% include feature/nav-menu.html sections="Government Reaction;Revenue System in Bengal and Bihar;Net Revenue of Birbhum District" %}
 
 ## The Government Reaction to the Famine: Increasing Revenue Demand Despite the Economic Collapse
 
@@ -14,9 +14,9 @@ This section contains an in-depth analysis of the roles played by the East India
 
 In 1769-70, out of 30 million people, 5 in every 16 were officially admitted to have perished, and only pound 9000 were expanded on relief by the government. In a year when 35 percent of the whole population and 50 percent of the cultivators perished, even not 5 percent of the land tax was remitted, 10 percent was added to it for the ensuing year. The Company issued orders prohibiting the export of grain from one district to another except to the city of Murshidabad. Similar orders were issued to the authorities at Chittagong and they were asked not to export grain anywhere except to Calcutta.
 
-## Revenue system in Bengal and Bihar from 1765–1770
+## Revenue System in Bengal and Bihar from 1765–1770
 
-{% include feature/image.html objectid="bengal_famine063" width="75" caption="Revenue of Midnapore district(May 1760 to April 1770)" %}
+{% include feature/image.html objectid="bengal_famine063" width="50" caption="Revenue of Midnapore district(May 1760 to April 1770)" %}
 
 The average yearly revenue receipts were INR 27,02,400. In 1770, the Nawab's revenue exceeded the previous year's by more than four hundred thousand. Net revenue increased from current INR 116,925 (1760-1761) to INR 902,149(1769-1770).
 
