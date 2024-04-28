@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/image.html objectid="bengal_famine011" %}
+{% include feature/image.html objectid="bengal_famine053" %}
 
 {% include feature/nav-menu.html sections="About the Project;About the Creator;The Metadata and Userbase" %}
 
