@@ -37,3 +37,4 @@ People moved from Western Bengal to  Eastern Bengal. Bihar lost a portion of its
 
 {% include feature/image.html objectid="bengal_famine061" width="50" caption="Visualization of migration during 1770 famine" %}
 
+{% include feature/tableau.html objectid="bengal_famine061" width="50" caption="Visualization of migration during 1770 famine" %}
