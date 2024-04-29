@@ -27,3 +27,4 @@ While famine carried off 25% of the district population, the revenue demand of t
 
 {% include feature/image.html objectid="bengal_famine064" width="50" caption="Revenue increase in Birbhum District (1723-1771)" %}
 
+{% include feature/tableau.html objectid="bengal_famine064" width="50" caption="Revenue increase in Birbhum District (1723-1771) %}
