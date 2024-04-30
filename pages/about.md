@@ -13,7 +13,7 @@ credits: true
 
 ## About the Project
 
-“Echoes of Tragedy: The Bengal Famine of 1770” is a digital exhibit that delves into one of the most catastrophic events in Indian history. This exhibit aims to provide a comprehensive understanding of the famine through a collection of photographs, paintings, lithographs, maps, graphic narratives, and scholarly articles, shedding light on the affected areas, the socio-economic conditions, and the aftermath of the famine. This digital platform provides an immersive experience, allowing visitors to navigate through various sections that feature interactive timelines, maps, and thematic galleries. Each segment is designed to provide a deeper understanding of the famine’s causes, the human cost, and how colonization impacted Indian history. 
+“Echoes of Tragedy: The Bengal Famine of 1770” is a digital exhibit that delves into one of the most catastrophic events in Indian history. This exhibit aims to provide a comprehensive understanding of the famine through a collection of photographs, paintings, lithographs, maps, graphic narratives, visualizations and scholarly articles, shedding light on the affected areas, the socio-economic conditions, and the aftermath of the famine. This digital platform provides an immersive experience, allowing visitors to navigate through various sections that feature interactive timelines, maps, and thematic galleries. Each segment is designed to provide a deeper understanding of the famine’s causes, the human cost, and how colonization impacted Indian history. 
 
 ## About the Creator
 
